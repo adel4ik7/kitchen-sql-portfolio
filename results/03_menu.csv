@@ -1,0 +1,13 @@
+dish_name,category,portions,net_sales_aed,recipe_cost_aed,contribution_aed,contribution_per_portion_aed,food_cost_pct
+Chicken souvlaki,Main,1855,125072.4,18343.17,106729.23,57.54,14.67
+Chicken rice bowl,Main,1777,91748.8,13460.77,78288.02,44.06,14.67
+Creamy parmesan pasta,Main,1204,64438.2,7531.02,56907.18,47.27,11.69
+Greek salad,Starter,1533,63865.2,9673.23,54191.97,35.35,15.15
+Prawn linguine,Main,1012,82213.2,30365.06,51848.14,51.23,36.93
+Grilled sea bass,Main,727,70726.6,24594.41,46132.19,63.46,34.77
+Hummus and bread,Starter,1502,47638.4,6387.26,41251.14,27.46,13.41
+Lemon roast potatoes,Side,1544,36760.8,4103.18,32657.62,21.15,11.16
+Garlic prawns,Starter,817,47038.0,17424.57,29613.43,36.25,37.04
+Crispy fish sandwich,Main,724,35182.0,15298.12,19883.88,27.46,43.48
+Tomato cucumber salad,Side,887,19368.8,2233.02,17135.78,19.32,11.53
+Yoghurt herb dip,Side,915,16356.6,1974.11,14382.49,15.72,12.07

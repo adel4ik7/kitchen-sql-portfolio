@@ -1,0 +1,18 @@
+Working in a kitchen makes you pay attention to portions, prep and waste. I wanted to explore those same questions with SQL.
+
+This portfolio case study uses a fictional Mediterranean restaurant: 90 days, 12 dishes and around 5,600 food orders. The data is synthetic, not taken from a workplace.
+
+The analysis connects sales, recipes and ingredient waste to answer a few practical questions:
+• Which dishes contribute most after ingredient cost?
+• Where is the money in the waste log?
+• Does a high food-cost percentage tell the whole story?
+
+One example: the fish sandwich has a 43.48% theoretical food cost and contributes AED 27.46 per portion. Grilled sea bass also exceeds the chosen cost target, but contributes AED 63.46 per portion. Looking only at the percentage would miss that difference.
+
+Prawns and sea bass also account for more than half of recorded waste cost. That gives a clear place to investigate first, without claiming the data explains the cause.
+
+The project uses SQLite, joins, GROUP BY, COUNT, SUM, AVG, HAVING and a few CTEs. It includes the database, queries, CSV outputs and a short write-up. Ingredient contribution is not net profit, and the exercise does not measure actual inventory COGS.
+
+Repository: https://github.com/adel4ik7/kitchen-sql-portfolio
+
+#SQL #DataAnalytics #RestaurantOperations #FoodCost #Hospitality

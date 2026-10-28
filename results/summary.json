@@ -1,0 +1,20 @@
+{
+  "rows": {
+    "ingredients": 20,
+    "dishes": 12,
+    "recipes": 65,
+    "orders": 5588,
+    "order_items": 12080,
+    "waste": 542
+  },
+  "kpis": {
+    "completed_orders": 5469,
+    "portions_sold": 14497,
+    "net_sales_aed": 700409.0,
+    "average_order_aed": 128.07,
+    "theoretical_food_cost_aed": 151387.92,
+    "food_cost_pct": 21.61
+  },
+  "waste_cost_aed": 6241.95,
+  "cancelled_orders": 119
+}
